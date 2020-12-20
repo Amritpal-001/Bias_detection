@@ -1,0 +1,18 @@
+https://hai.stanford.edu/blog/geographic-bias-medical-ai-tools
+The Geographic Bias in Medical AI Tools
+
+
+https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+ predict future criminals. And it’s biased against black
+ 
+ FairML: Auditing Black-Box Predictive Models
+ https://github.com/adebayoj/fairml
+ 
+ 
+ Aequitas
+The Bias and Fairness Audit Toolkit
+ https://github.com/dssg/aequitas
+ http://www.datasciencepublicpolicy.org/projects/aequitas/
+ https://dssg.github.io/aequitas/
+
+
